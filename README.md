@@ -1,2 +1,2 @@
 # ArrayListler
-# Basit bir arrayList kullanımı
+Basit bir arrayList kullanımı
